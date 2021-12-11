@@ -29,7 +29,9 @@ const genRandomSequence = (length = 0) => {
       temp.push(i)
     }
     temp = temp.sort((a, b) => {
-      if (Math.random() < Math.random()) {
+      a = Math.random()
+      b = Math.random()
+      if (a < b) {
         return -1
       } else {
         return 1
