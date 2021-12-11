@@ -1,0 +1,47 @@
+[
+  {
+    "questionText": "What is the capital of Uttar pradesh?",
+    "choices": ["france", "Paris", "Lucknow", "Delhi"],
+    "answer": "Lucknow"
+  },
+  {
+    "questionText": "India is a federal union comprising twenty-eight states and how many union territories??",
+    "choices": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "questionText": "Which of the following is the capital of Arunachal Pradesh?",
+    "choices": ["Itanagar", "Dispur", "Imphal", "Panaji"],
+    "answer": "Itanagar"
+  },
+  {
+    "questionText": "What are the major languages spoken in Andhra Pradesh",
+    "choices": [
+      "Odia and Telugu",
+      "Telugu and Urdu",
+      "Telugu and Kannada",
+      "All of the above languages"
+    ],
+    "answer": "Telugu and Urdu"
+  },
+  {
+    "questionText": "What is the state flower of Haryana?",
+    "choices": ["Lotus", "Rhododendron", "Golden Shower", "Not declared"],
+    "answer": "Lotus"
+  },
+  {
+    "questionText": "Which of the following states is not located in the North?",
+    "choices": [
+      "Jharkhand",
+      "Jammu and Kashmir",
+      "Himachal Pradesh",
+      "Haryana"
+    ],
+    "answer": "Jharkhand"
+  },
+  {
+    "questionText": "In which of the following state, the main language is Khasi?",
+    "choices": ["Mizoram", "Nagaland", "Meghalaya", "Tripura"],
+    "answer": "Meghalaya"
+  }
+]
