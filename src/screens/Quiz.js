@@ -96,7 +96,7 @@ function Quiz() {
                 padding: 5,
               }}
             >
-              <Container sx={{ padding: 0, marginLeft: 3 }}>
+              <Container sx={{ padding: 1 }}>
                 <form id='myform' noValidate onSubmit={handlesubmit}>
                   <FormControl
                     component='fieldset'
